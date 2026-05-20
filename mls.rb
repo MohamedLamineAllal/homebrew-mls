@@ -1,7 +1,7 @@
 class Mls < Formula
   desc "High-performance storage cleanup tool for macOS"
-  homepage "https://github.com/MohamedLamineAllal/MacOSLeanStorage"
-  url "https://github.com/MohamedLamineAllal/MacOSLeanStorage/archive/refs/tags/v0.1.2.tar.gz"
+  homepage "https://github.com/MohamedLamineAllal/MrLeanStorage"
+  url "https://github.com/MohamedLamineAllal/MrLeanStorage/archive/refs/tags/v0.1.2.tar.gz"
   sha256 "REPLACE_WITH_SHA256_HASH" 
   license "MIT"
 
